@@ -1,0 +1,28 @@
+C:\Users\Hudney\source\repos\Atividade1\Atividade1\bin\Debug\net7.0\Atividade1.exe
+C:\Users\Hudney\source\repos\Atividade1\Atividade1\bin\Debug\net7.0\Atividade1.deps.json
+C:\Users\Hudney\source\repos\Atividade1\Atividade1\bin\Debug\net7.0\Atividade1.runtimeconfig.json
+C:\Users\Hudney\source\repos\Atividade1\Atividade1\bin\Debug\net7.0\Atividade1.dll
+C:\Users\Hudney\source\repos\Atividade1\Atividade1\bin\Debug\net7.0\Atividade1.pdb
+C:\Users\Hudney\source\repos\Atividade1\Atividade1\obj\Debug\net7.0\Atividade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudney\source\repos\Atividade1\Atividade1\obj\Debug\net7.0\Atividade1.AssemblyInfoInputs.cache
+C:\Users\Hudney\source\repos\Atividade1\Atividade1\obj\Debug\net7.0\Atividade1.AssemblyInfo.cs
+C:\Users\Hudney\source\repos\Atividade1\Atividade1\obj\Debug\net7.0\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\Hudney\source\repos\Atividade1\Atividade1\obj\Debug\net7.0\Atividade1.dll
+C:\Users\Hudney\source\repos\Atividade1\Atividade1\obj\Debug\net7.0\refint\Atividade1.dll
+C:\Users\Hudney\source\repos\Atividade1\Atividade1\obj\Debug\net7.0\Atividade1.pdb
+C:\Users\Hudney\source\repos\Atividade1\Atividade1\obj\Debug\net7.0\Atividade1.genruntimeconfig.cache
+C:\Users\Hudney\source\repos\Atividade1\Atividade1\obj\Debug\net7.0\ref\Atividade1.dll
+C:\Users\Hudney\OneDrive\Desktop\Proj POO\Hudeny Gomes Nunes_G50GCD0\Atividade1\Atividade1\obj\Debug\net7.0\Atividade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hudney\OneDrive\Desktop\Proj POO\Hudeny Gomes Nunes_G50GCD0\Atividade1\Atividade1\obj\Debug\net7.0\Atividade1.AssemblyInfoInputs.cache
+C:\Users\Hudney\OneDrive\Desktop\Proj POO\Hudeny Gomes Nunes_G50GCD0\Atividade1\Atividade1\obj\Debug\net7.0\Atividade1.AssemblyInfo.cs
+C:\Users\Hudney\OneDrive\Desktop\Proj POO\Hudeny Gomes Nunes_G50GCD0\Atividade1\Atividade1\obj\Debug\net7.0\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\Hudney\OneDrive\Desktop\Proj POO\Hudeny Gomes Nunes_G50GCD0\Atividade1\Atividade1\obj\Debug\net7.0\Atividade1.dll
+C:\Users\Hudney\OneDrive\Desktop\Proj POO\Hudeny Gomes Nunes_G50GCD0\Atividade1\Atividade1\obj\Debug\net7.0\refint\Atividade1.dll
+C:\Users\Hudney\OneDrive\Desktop\Proj POO\Hudeny Gomes Nunes_G50GCD0\Atividade1\Atividade1\obj\Debug\net7.0\Atividade1.pdb
+C:\Users\Hudney\OneDrive\Desktop\Proj POO\Hudeny Gomes Nunes_G50GCD0\Atividade1\Atividade1\bin\Debug\net7.0\Atividade1.exe
+C:\Users\Hudney\OneDrive\Desktop\Proj POO\Hudeny Gomes Nunes_G50GCD0\Atividade1\Atividade1\bin\Debug\net7.0\Atividade1.deps.json
+C:\Users\Hudney\OneDrive\Desktop\Proj POO\Hudeny Gomes Nunes_G50GCD0\Atividade1\Atividade1\bin\Debug\net7.0\Atividade1.runtimeconfig.json
+C:\Users\Hudney\OneDrive\Desktop\Proj POO\Hudeny Gomes Nunes_G50GCD0\Atividade1\Atividade1\bin\Debug\net7.0\Atividade1.dll
+C:\Users\Hudney\OneDrive\Desktop\Proj POO\Hudeny Gomes Nunes_G50GCD0\Atividade1\Atividade1\bin\Debug\net7.0\Atividade1.pdb
+C:\Users\Hudney\OneDrive\Desktop\Proj POO\Hudeny Gomes Nunes_G50GCD0\Atividade1\Atividade1\obj\Debug\net7.0\Atividade1.genruntimeconfig.cache
+C:\Users\Hudney\OneDrive\Desktop\Proj POO\Hudeny Gomes Nunes_G50GCD0\Atividade1\Atividade1\obj\Debug\net7.0\ref\Atividade1.dll
